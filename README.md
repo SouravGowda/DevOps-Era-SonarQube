@@ -66,3 +66,5 @@ With the above credentials, log in to the SonarQube Dashboard, and let’s start
 
 
 https://awstip.com/installing-sonarqube-on-aws-ec2-instance-and-integrating-it-with-aws-codepipeline-abec99416ba4
+
+https://github.com/SouravGowda/DevSecOps_Project
